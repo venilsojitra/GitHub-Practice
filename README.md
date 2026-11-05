@@ -18,3 +18,12 @@ Build and maintain professional software projects.
 - Made my first commit.
 - Connected my local repository to GitHub.
 - Successfully pushed my first commit.
+
+## My First Branch
+
+I created my first Git feature branch.
+
+Learning:
+- Branch creation
+- Branch switching
+- Independent development
